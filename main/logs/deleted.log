@@ -1,0 +1,12 @@
+sending incremental file list
+.d..t...... ./
+.f..t...... stuff_0
+.f..t...... stuff_2
+.f..t...... stuff_3
+>f+++++++++ stuff_5
+.f..t...... stuff_6
+.f..t...... stuff_7
+.f..t...... stuff_9
+
+sent 281 bytes  received 40 bytes  642.00 bytes/sec
+total size is 27  speedup is 0.08 (DRY RUN)

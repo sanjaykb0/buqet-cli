@@ -1,0 +1,10 @@
+sending incremental file list
+.d..t...... ./
+>fcst...... data_0
+.f..t...... data_1
+.f..t...... data_3
+.f..t...... data_4
+>f+++++++++ data_5
+
+sent 239 bytes  received 34 bytes  546.00 bytes/sec
+total size is 9  speedup is 0.03 (DRY RUN)
